@@ -1,0 +1,23 @@
+{
+  "name": "typescripthandbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --project src/tsconfig.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmartpad/TypeScriptHandBook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmartpad/TypeScriptHandBook/issues"
+  },
+  "homepage": "https://github.com/gmartpad/TypeScriptHandBook#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
